@@ -1,0 +1,7 @@
+name: "indys-website"
+navbar:
+  title: "Indy's Website"
+  left:
+    - text: "About Me"
+      href: about_me.html
+
