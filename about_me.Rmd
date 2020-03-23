@@ -1,13 +1,9 @@
 ---
-title: "about_me"
+title: "About Me"
 author: "Inderbir Dhillon"
 date: "3/21/2020"
 output: html_document
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # Inderbir Dhillon
 ## SMU MSDS

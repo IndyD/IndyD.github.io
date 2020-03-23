@@ -2,6 +2,7 @@ name: "indys-website"
 navbar:
   title: "Indy's Website"
   left:
+    - text: "Home"
+      href: index.html
     - text: "About Me"
       href: about_me.html
-
