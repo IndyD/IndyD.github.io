@@ -1,0 +1,10 @@
+name: beer
+title:
+username:
+account: indyd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1985708
+bundleId: 2916656
+url: https://indyd.shinyapps.io/beer/
+when: 1585028049.32045
